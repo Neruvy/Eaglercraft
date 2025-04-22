@@ -23,7 +23,7 @@ Go to <a href="https://servers.eaglercraft.com/"<a>this official link</a> to get
 
 </p>
 <h1>Clients</h1>
-Go to <a href="https://client.eaglercraft.win/"<a>this unofficial link</a> to get <b>a list of Eaglercraft Clients</b>. Most of the clients <b>are not official clients</b>.
+Go to <a href="https://client.eaglercraft.win/"<a>this unofficial link</a> to get <b>a list of Eaglercraft Clients</b>. Most of the clients <b>are not official clients</b>. I do not own or edit it in any way.
 <h1>IMPORTANT!</h1>
 
 <p>
