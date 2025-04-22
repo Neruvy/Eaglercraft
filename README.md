@@ -21,6 +21,9 @@
 Go to <a href="https://servers.eaglercraft.com/"<a>this official link</a> to get <b>a list of Multiplayer Server Adresses.</b> I do not own it or edit it in any way.
 </p>
 
+</p>
+<h1>Clients</h1>
+Go to <a href="https://client.eaglercraft.win/"<a>this unofficial link</a> to get <b>a list of Eaglercraft Clients</b>. Most of the clients <b>are not official clients</b>.
 <h1>IMPORTANT!</h1>
 
 <p>
