@@ -1,5 +1,4 @@
 <html>
-<h1>THIS IS UNDER CONSTRUCTION, FILES MAY NOT APPEAR.</h1>
   <h1>Eaglercraft 1.8.8 Browser</h1>
 <head>
 <p>
@@ -8,14 +7,7 @@
 </head>
 
 <body>
-
-<p>
-<h1>How to launch game in browser:</h1>
-<p>1. Download the zip file.</p>
-<p>2. Open the zip in your files.</p>
-<p>3. Find the EaglercraftX_1.8_u50_Offline_Signed.html file.</p>
-<p>4. Open the file and let it load.</p>
-</p>
+<h3>I have successfully converted the original file to a website! The original file can be found <a href="https://example.com/loading"<a>here</a></h3>
 
 <p>
 <h1>Servers</h1>
