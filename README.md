@@ -6,7 +6,7 @@
 </p>
 </head>
 
-<h3>You can also fork it to make your own Eaglercraft Website!</h3>
+<h3>If you need the offline HTML, its the latest release on my repository.</h3>
 
 <body>
 <h3>I have successfully converted the original file to a website! The original file repository can be found <a href="https://github.com/ez1oo/Eaglercraft-HTML-File"<a>here</a></h3>.
