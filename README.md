@@ -7,8 +7,6 @@ Eaglercraft javascript runtime. Multiplayer worlds available. Customizable profi
 
 If you need the offline HTML, [its the latest release on this repository.]  (https://github.com/ez1oo/Eaglercraft/releases/tag/eaglercraft)
 
-I have successfully converted the original file to a website! The original file repository can be found here: https://github.com/ez1oo/Eaglercraft-HTML-File
-
 # Servers
 Go to this official link: https://servers.eaglercraft.com/ to get a list of Multiplayer Server Adresses. I do not own it or edit it in any way.
 </p>
