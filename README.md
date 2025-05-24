@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> The Eaglercraft website (https://neruvy.github.io/Eaglercraft/) will be updated to Eaglercraft 1.12 WASM at 12:00 PM CDT.
+> The Eaglercraft website (https://neruvy.github.io/Eaglercraft/) was updated to Eaglercraft 1.12 WASM.
 
 # Eaglercraft Browser
 
