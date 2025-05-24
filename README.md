@@ -1,8 +1,8 @@
 <html>
-  <h1>Eaglercraft 1.8.8 Browser</h1>
+  <h1>Eaglercraft Browser</h1>
 <head>
 <p>
-<b>Eaglercraft 1.8.8 javascript runtime.</b> Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. </b> I'll try my best to update it often when a new update comes out.
+<b>Eaglercraft javascript runtime.</b> Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. </b> I'll try my best to update it often when a new update comes out.
 </p>
 </head>
 
