@@ -5,7 +5,7 @@
 
 Eaglercraft javascript runtime. Multiplayer worlds available. Customizable profile, skins, settings, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. I'll try my best to update it often when a new update comes out.
 
-If you need the offline HTML, [its the latest release on this repository.]  (https://github.com/ez1oo/Eaglercraft/releases/tag/eaglercraft)
+If you need the offline HTML, [its the latest release on this repository.]  (https://github.com/neruvy/Eaglercraft/releases/tag/eaglercraft)
 
 # Servers
 Go to this official link: https://servers.eaglercraft.com/ to get a list of Multiplayer Server Adresses. I do not own it or edit it in any way.
